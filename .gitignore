@@ -21,4 +21,4 @@
 # Go workspace file
 go.work
 
-did-notifications-secret.yaml
+did-events-secret.yaml
